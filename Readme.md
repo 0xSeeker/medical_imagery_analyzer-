@@ -1,4 +1,4 @@
-# 🩺 DICOM Anonymization & AI Analysis Pipeline
+# 🩺 Medical imagery analyzer (DICOM Anonymization & AI Analysis Pipeline)
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Gemini API](https://img.shields.io/badge/AI-Google_Gemini-orange.svg)](https://ai.google.dev/)
